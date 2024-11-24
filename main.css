@@ -1,7 +1,7 @@
 :root {
    --accent: #0b0545;
-   --bkg: #4d54af;
-   --bkg2: #2d285e;
+   --bkg: #2d285e;
+   --bkg2: #4d54af;
    --fg: #cad3f5;
    --fg-hover: var(--bkg);
 }
